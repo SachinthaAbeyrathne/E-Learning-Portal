@@ -1,3 +1,7 @@
+html {
+  overflow-x: hidden;
+}
+
 body {
   background-color: #10152c;
   font-family: "Poppins", sans-serif;
@@ -23,7 +27,6 @@ body {
   
   nav {
     order: 1;
-    overflow-x: hidden;
   }
   
   .nav__links a,
@@ -33,6 +36,7 @@ body {
     font-weight: 500;
     color: #edf0f1;
     text-decoration: none;
+    overflow-x: hidden;
   }
   
   .nav__links {
@@ -67,7 +71,6 @@ body {
     border-radius: 50px;
     cursor: pointer;
     transition: all 0.3s ease 0s;
-    overflow-x: hidden;
   }
 
   .cta:hover {
@@ -78,7 +81,7 @@ body {
   
   .menu {
     display: none;
-    overflow-x: hidden;
+    object-fit: fill;
   }
   
   .overlay {
@@ -95,7 +98,6 @@ body {
   
   .overlay--active {
     width: 100%;
-    overflow-x: hidden;
   }
   
   .overlay__content {
@@ -104,6 +106,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    object-fit: ;
     overflow-x: hidden;
    
   }
@@ -113,13 +116,11 @@ body {
     font-size: 36px;
     display: block;
     transition: all 0.3s ease 0s;
-    overflow-x: hidden;
   }
   
   .overlay a:hover,
   .overlay a:focus {
     color: #0088a9;
-    overflow-x: hidden;
   }
   .overlay .close {
     position: absolute;
@@ -133,7 +134,6 @@ body {
   @media screen and (max-height: 450px) {
     .overlay a {
       font-size: 20px;
-      overflow-x: hidden;
     }
     .overlay .close {
       font-size: 40px;
@@ -146,7 +146,6 @@ body {
   @media only screen and (max-width: 800px) {
     .nav__links,
     .cta {
-      overflow-x: hidden;
       display: none;
     }
     .menu {
@@ -182,7 +181,6 @@ body {
   background-color: #fdfdfd;
   padding: 100px;
   box-shadow: 10px 10px 8px rgba(0,0,0,0.3);
-  overflow-x: hidden;
 }
 .inner-section1{
   width: 100%;
