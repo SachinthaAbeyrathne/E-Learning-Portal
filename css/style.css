@@ -325,7 +325,6 @@ body {
 
   .profile p {
     margin: 20px 10px 80px 10px;
-    overflow-x: hidden;
     text-align: left;
   }
 }
