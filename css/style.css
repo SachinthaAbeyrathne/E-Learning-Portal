@@ -246,12 +246,12 @@ body {
 .profiles {
   display: flex;
   justify-content: space-around;
-  margin: 20px 80px;
+  margin: 30px 10px;
 
 }
 
 .profile {
-  flex-basis: 260px;
+  flex-basis: 300px;
  
 }
 
