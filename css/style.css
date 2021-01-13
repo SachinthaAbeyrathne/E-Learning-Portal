@@ -247,7 +247,7 @@ body {
   display: flex;
   justify-content: space-around;
   margin: 20px 80px;
-  overflow-x: hidden;
+
 }
 
 .profile {
@@ -291,7 +291,7 @@ body {
 @media only screen and (max-width: 1150px) {
   .profiles {
     flex-direction: column;
-    overflow-x: hidden;
+    
   }
 
   .profile {
@@ -304,7 +304,7 @@ body {
     text-align: center;
     margin: 20px 60px 80px 60px;
     font-size: 16px;
-    overflow-x: hidden;
+  
   }
 }
 
