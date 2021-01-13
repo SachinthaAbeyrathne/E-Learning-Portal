@@ -246,7 +246,7 @@ body {
 .profiles {
   display: flex;
   justify-content: space-around;
-  margin: 30px 10px;
+  margin: 25px 10px;
 
 }
 
@@ -291,6 +291,7 @@ body {
 @media only screen and (max-width: 1150px) {
   .profiles {
     flex-direction: column;
+    margin: 45px 1px;
     
   }
 
@@ -298,6 +299,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 25px 10px;
   }
 
   .profile p {
