@@ -256,8 +256,8 @@ body {
 }
 
 .profile .profile-img {
-  height: 260px;
-  width: 260px;
+  height: 240px;
+  width: 240px;
   border-radius: 50%;
   filter: grayscale(100%);
   cursor: pointer;
