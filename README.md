@@ -3,10 +3,18 @@ E-LEARNING PORTAL is a Volunteer project that I  started recently during this Co
 
 Lectures Joined for this Volunteer Project
 
-⭕Dimuthu Kosala -History Lecturer 
+⭕Mr. Dimuthu Kosala -History Lecturer 
 
-⭕Chatura Mendis -Buddhism Lecturer 
+⭕Mr. Chatura Mendis -Buddhism Lecturer 
 
-⭕Menuri Hapuarachchi -Citizenship Education Lecturer 
+⭕Ms.Umali Thilakarathna -Special Japanese Lecturer
 
-⭕Gineth Karunanayake -ICT Lecturer
+⭕Mr. Pradeep Mutukudaarachchi -Oriental Music Lecturer
+
+⭕Mr. Nuwan Ranjith Priyanga -Dancing Lecturer
+
+⭕Miss. Menuri Hapuarachchi -Citizenship Education Lecturer 
+
+⭕Mr. Gineth Karunanayake -ICT Lecturer
+ 
+⭕Miss. Lehara Silva -English Language Lecturer 
